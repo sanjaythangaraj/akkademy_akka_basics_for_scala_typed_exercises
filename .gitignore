@@ -1,0 +1,16 @@
+.idea
+.bsp
+.vscode
+.bloop
+.history
+.metals
+metals.sbt
+/project/*.conf
+.DS_Store
+target/
+project/target/
+dist
+node_modules
+.parcel-cache
+
+logs/
